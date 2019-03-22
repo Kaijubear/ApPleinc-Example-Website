@@ -1,0 +1,43 @@
+/*navigation bar*/
+.nav {
+  background-color: #333;
+  width: 100%;
+}
+
+.nav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 22px;
+}
+
+.front-image{
+    background-image: url('../images/Apple-orchard-close-up.jpg');
+	background-size: cover;
+}
+
+
+.front-image h1{
+	color: rgb(255,255,255);
+	font-size: 100px;
+}
+
+.front-image p{
+	color: rgb(255,255,255);
+	font-size: 20px;
+}
+
+.front-image a {
+	color: rgb(255,255,255);
+}
+
+.front-image btn{
+    
+}
+
+/* Change background on mouse-over 
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}*/
